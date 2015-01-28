@@ -118,6 +118,6 @@
 
     //Start the bot and extend it when it has loaded.
     $.getScript('https://rawgit.com/Yemasthui/basicBot/master/basicBot.js', extend);
-    API.setVolume(0);
+    API.setVolume(60);
 
 }).call(this);
